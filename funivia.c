@@ -10,7 +10,7 @@
 //costanti
 #define ERRORE_CREAZIONE_SEMAFORI	-1000
 #define ERRORE_CREAZIONE_THREAD		-1001
-#define ERRORE_JOIN					      -1002 
+#define ERRORE_JOIN			-1002 
 #define NUMERO_MASSIMO_PASSEGGERI	 50
 #define RED   "\x1B[31m"
 #define BLU   "\x1B[34m"
